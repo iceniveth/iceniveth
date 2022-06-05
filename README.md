@@ -8,7 +8,7 @@ https://medium.com/@ken11zer01
 #### Apr 2019 - Present - Lead Software Developer - StackTrek Enterprise Inc.
 
 - Involved in the fullcyle of product planning, developing, test, and customer feedbacks.
-- Developing apps with Create React App, NextJS, Typescript, and Elixir Pheonix (REST API).
+- Developing apps with Create React App, NextJS, Typescript, Elixir Pheonix (REST API), and PostgreSQL.
 - Simplified application dependencies with Docker. 
 - Uses AWS stack: EC2, CloudFront, and S3.
 - Improved the CI/CD process with GitLab CI and internal apps.
