@@ -9,14 +9,13 @@ https://medium.com/@ken11zer01
 
 - Involved in the fullcyle of product planning, developing, test, and customer feedbacks.
 - Developing apps with Create React App, NextJS, Typescript, and Elixir Pheonix (REST API).
-- Docker for development and deployment.
+- Simplified application dependencies with Docker. 
 - Uses AWS stack: EC2, CloudFront, and S3.
 - Improved the CI/CD process with GitLab CI and internal apps.
-- Lead the projects development and provide guidances on junior teammates.
+- Lead project development and provide guidances on junior teammates.
 - Does code reviews for most merge requests.
 - Practice test-driven development with tools: Jest, ExUnit, TestCafe, and Cypress.
-- Some DNS management with Namecheap/Cpanel.
-- Been managing Linux servers with Caddy or Nginx web server.
+- Managed production Linux servers with Caddy/Nginx web server and Namecheap/Cpanel.
 - Tracks customer feedbacks from Hotjar and monitor errors via Sentry.io.
 - Integrate payment gateway Paymongo.
 - Applies feature flagging when releasing new features via GitLab.
