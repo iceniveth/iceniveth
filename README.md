@@ -17,8 +17,9 @@ https://medium.com/@ken11zer01
 - Practice test-driven development with tools: Jest, ExUnit, TestCafe, and Cypress.
 - Some DNS management with Namecheap/Cpanel.
 - Been managing Linux servers with Caddy or Nginx web server.
-- Tracks customer feedbacks on Hotjar and monitor errors via Sentry.io.
+- Tracks customer feedbacks from Hotjar and monitor errors via Sentry.io.
 - Integrate payment gateway Paymongo.
+- Applies feature flagging when releasing new features via GitLab.
 
 #### Jun 2016 - Feb 2019 - Junior Software Develoepr - CPRS Technologies
 
