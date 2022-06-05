@@ -12,7 +12,7 @@ https://medium.com/@ken11zer01
 - Docker for development and deployment.
 - Uses AWS stack: EC2, CloudFront, and S3.
 - Improved the CI/CD process with GitLab CI and internal apps.
-- Provide guidances on junior teammates.
+- Lead the projects development and provide guidances on junior teammates.
 - Does code reviews for most merge requests.
 - Practice test-driven development with tools: Jest, ExUnit, TestCafe, and Cypress.
 - Some DNS management with Namecheap/Cpanel.
