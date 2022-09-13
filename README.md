@@ -8,16 +8,16 @@ https://medium.com/@ken11zer01
 #### Apr 2019 - Present - Lead Software Developer - StackTrek Enterprise Inc.
 
 - Involved in the fullcyle of product planning, developing, test, and customer feedbacks.
-- Developing apps with Create React App, NextJS, Typescript, Elixir Pheonix (REST API), and PostgreSQL.
+- Developing apps with Create React App, NextJS, Vite, Typescript, Elixir Pheonix (REST API), and PostgreSQL.
 - Simplified application dependencies with Docker. 
-- Uses AWS stack: EC2, CloudFront, and S3.
+- Used AWS services: EC2, ECS, CloudFront, Lambda, and S3.
 - Improved the CI/CD process with GitLab CI and internal apps.
 - Lead project development and provide guidances on junior teammates.
 - Does code reviews for most merge requests.
 - Practice test-driven development with tools: Jest, ExUnit, TestCafe, and Cypress.
 - Managed production Linux servers with Caddy/Nginx web server and Namecheap/Cpanel.
 - Tracks customer feedbacks from Hotjar and monitor errors via Sentry.io.
-- Integrate payment gateway Paymongo.
+- Integrate payment gateway with Paymongo.
 - Applies feature flagging when releasing new features via GitLab.
 
 #### Jun 2016 - Feb 2019 - Junior Software Develoepr - CPRS Technologies
