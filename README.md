@@ -67,7 +67,7 @@ Jun 2002 - Mar 2012 - Basic Education - Hua Siong College of Iloilo
 Product Manager - StackTrek Enterprise Inc.\
 3rd Floor, Doña Ana Ros Bldg. Simeon Ledesma St. Democracia, Iloilo City, Philippines
 
-**Jon Tristan D. Jeruta**\
+**May Olivares**\
 Software Developer - StackTrek Enterprise Inc.\
 3rd Floor, Doña Ana Ros Bldg. Simeon Ledesma St. Democracia, Iloilo City, Philippines
 
