@@ -12,7 +12,7 @@ https://medium.com/@ken11zer01
 - Simplified application dependencies with Docker. 
 - Used AWS services: EC2, ECS, CloudFront, Lambda, and S3.
 - Improved the CI/CD process with GitLab CI and internal apps.
-- Lead project development and provide guidances on junior teammates.
+- Lead project development and provide guidances on teammates.
 - Does code reviews for most merge requests.
 - Practice test-driven development with tools: Jest, ExUnit, TestCafe, and Cypress.
 - Managed production Linux servers with Caddy/Nginx web server and Namecheap/Cpanel.
@@ -63,10 +63,14 @@ Jun 2002 - Mar 2012 - Basic Education - Hua Siong College of Iloilo
 
 ### References
 
+**Marie Ariessa Lane Ko**\
+Product Manager - StackTrek Enterprise Inc.\
+3rd Floor, Doña Ana Ros Bldg. Simeon Ledesma St. Democracia, Iloilo City, Philippines
+
 **Jon Tristan D. Jeruta**\
 Software Developer - StackTrek Enterprise Inc.\
-3rd Floor, Doña Ana Ros Bldg. Simeon Ledesma St. Democracia, Iloilo City, Philippines\
+3rd Floor, Doña Ana Ros Bldg. Simeon Ledesma St. Democracia, Iloilo City, Philippines
 
 **Ma. Theresa R. Mendez**\
 Former Office Manager - CPRS Technologies\
-Rm. 308 Adelina Bldg. Cor. Gen. Luna / Jalandoni Street Iloilo City, Philippines\
+Rm. 308 Adelina Bldg. Cor. Gen. Luna / Jalandoni Street Iloilo City, Philippines
