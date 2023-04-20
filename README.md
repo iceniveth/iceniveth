@@ -61,16 +61,3 @@ Microsoft Certified Professional
 Jun 2012 - Nov 2016 - Bachelor of Science in Information Technology - Central Philippine University\
 Jun 2002 - Mar 2012 - Basic Education - Hua Siong College of Iloilo
 
-### References
-
-**Marie Ariessa Lane Ko**\
-Product Manager - StackTrek Enterprise Inc.\
-3rd Floor, Doña Ana Ros Bldg. Simeon Ledesma St. Democracia, Iloilo City, Philippines
-
-**May Olivares**\
-Software Developer - StackTrek Enterprise Inc.\
-3rd Floor, Doña Ana Ros Bldg. Simeon Ledesma St. Democracia, Iloilo City, Philippines
-
-**Ma. Theresa R. Mendez**\
-Former Office Manager - CPRS Technologies\
-Rm. 308 Adelina Bldg. Cor. Gen. Luna / Jalandoni Street Iloilo City, Philippines
