@@ -48,6 +48,14 @@ https://medium.com/@ken11zer01
 - Integrate payment gateway with Paymongo and Bux.ph
 - Applies feature flagging when releasing new features via GitLab.
 
+##### CV
+
+An internal tool for searching company applicants.
+
+- Used Python and OpenAI chat completion to extract relevant fields from a resume (PDF/Docx).
+- Has a web interface for the staff to interact. Stacks used: FastAPI, Remix.run, MUI, DrizzleORM, Postgresql, & AWS S3
+- Hosted on AWS EC2 with Caddy server. Uses Docker Compose.
+
 #### Jun 2016 - Feb 2019 - Junior Software Developer - CPRS Technologies
 
 - Developed a single-page application for Electronic Medical Record System for Ophthalmologist. Implemented using Vue with Vuetify and hosted on Firebase.
