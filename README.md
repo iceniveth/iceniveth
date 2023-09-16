@@ -18,7 +18,8 @@ https://medium.com/@ken11zer01
 - Git
 - AWS (EC2, ECS, S3, CloudFront)
 - Sentry.io
-- Mandrill 
+- Mandrill
+- Shopify
 
 #### Used to
 
@@ -47,6 +48,11 @@ https://medium.com/@ken11zer01
 - Tracks customer feedbacks from Hotjar and monitors errors via Sentry.io.
 - Integrate payment gateway with Paymongo and Bux.ph
 - Applies feature flagging when releasing new features via GitLab.
+
+##### Wine Ecommerce
+
+- scraped wine products from well known sites using Playwright.
+- using Shopify Graphql for storefront / admin SDK, NextJS. 
 
 ##### CV
 
