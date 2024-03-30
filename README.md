@@ -7,30 +7,11 @@ https://medium.com/@ken11zer01
 
 #### Current
 
-- Elixir / Phoenix
-- NodeJS / Typescript
-- ReactJS, ViteJS
-- Docker
-- Postgresql
-- Caddy
-- Namecheap
-- JIRA / Bitbucket
-- Git
-- AWS (EC2, ECS, S3, CloudFront)
-- Sentry.io
-- Mandrill
-- Shopify
+Elixir/Phoenix • NodeJS • Typescript • React • ViteJS • Docker • Postgresql • Caddy • Namecheap • JIRA • Bitbucket • Git • AWS (EC2, ECS, S3, CouldFront) • Sentry.io • Mandrill • Mailchimp • Shopify • Playwright
 
 #### Used to
 
-- GitLab (Issues, CI, Feature Flags)
-- Firebase
-- VueJs
-- MySQL, MSSQL, MongoDB
-- Python, C# / VB.NET, PHP
-- Windows Form, ASP.NET Core, Entity Framework Core 
-- TestCafe, Cypress
-- Snyk
+GitLab (Issues, CI, Feature Flags) • Firebase • VueJs • MySQL • MSSQL • MongoDB • Python, C# • VB.NET • PHP•  Windows Form • ASP.NET Core • Entity Framework Core • TestCafe • Cypress
 
 ### Experiences
 
@@ -48,8 +29,17 @@ https://medium.com/@ken11zer01
 - Tracks customer feedback from Hotjar and monitors errors via Sentry.io.
 - Integrate payment gateway with Paymongo and Bux.ph
 - Applies feature flagging when releasing new features via GitLab.
+- Teach and advise coding bootcamp trainees. 
 
-##### Wine E-commerce
+##### LoveBus
+
+A multi-merchant online store for selling Filipino-made products.
+
+- It's a Shopify app that integrates with Webkul Multi Vendor to provide multi-merchant capability.
+- Customize the checkout page to override the default shipping fee rates (rates are calculated by local 3rd party service)
+- The application tech stack: NextJS, Drizzleorm, Postgresql, Redis, & PayMongo. 
+
+##### Cult Cellar
 
 An e-commerce website that mostly sells wines.
 
@@ -58,10 +48,10 @@ An e-commerce website that mostly sells wines.
 
 ##### CV
 
-An internal tool for searching applicants based on their skills which is extracted using AI tools.
+An internal tool for searching applicants based on their skills which is extracted using AI tools. Could Send sms to applicants.
 
 - Used Python and OpenAI chat completion to extract relevant fields from a resume (PDF/Docx).
-- Has a web interface for the staff to interact. Stacks used: FastAPI, Remix.run, MUI, DrizzleORM, Postgresql, & AWS S3
+- Has a web interface for the staff to interact. Stacks used: FastAPI, Remix.run, MUI, DrizzleORM, Postgresql, AWS S3, & Semaphore SMS.
 
 ##### StackED
 
@@ -69,7 +59,7 @@ An online learning management system for coding bootcamps or universities/colleg
 
 - Has coding problem quiz that runs/compiles languages like Javascript, Python, PHP, Java, C, and C#.
 - Utilizes Docker for executing scripts in stdin/out or against test frameworks. 
-- Built using Elixir/Phoenix, Postgresql, React, ViteJS.
+- Built using Elixir/Phoenix, Postgresql, React with ViteJS, & AWS S3.
 
 #### Jun 2016 - Feb 2019 - Junior Software Developer - CPRS Technologies
 
