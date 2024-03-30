@@ -41,26 +41,35 @@ https://medium.com/@ken11zer01
 - Simplified application dependencies and deployment with Docker. 
 - Used AWS services: EC2, ECS, CloudFront, Lambda, and S3.
 - Improved the CI/CD process with GitLab CI, Bitbucket Pipelines, and internal apps.
-- Lead project development and provide guidance to teammates.
+- Led a team and project development.
 - Does code reviews for most merge requests.
-- Practice test-driven development with tools: Jest, ExUnit, TestCafe, and Cypress.
+- Practice test-driven development with tools: Jest, Vitest, ExUnit, TestCafe, and Cypress.
 - Managed production Linux servers with Caddy/Nginx web server and Namecheap/Cpanel.
-- Tracks customer feedbacks from Hotjar and monitors errors via Sentry.io.
+- Tracks customer feedback from Hotjar and monitors errors via Sentry.io.
 - Integrate payment gateway with Paymongo and Bux.ph
 - Applies feature flagging when releasing new features via GitLab.
 
-##### Wine Ecommerce
+##### Wine E-commerce
 
-- scraped wine products from well known sites using Playwright.
-- using Shopify Graphql for storefront / admin SDK, NextJS. 
+An e-commerce website that mostly sells wines.
+
+- Scrapes wine products from well-known sites using Playwright, then sell those products with additional price markup.
+- Built using Shopify, NextJS, Prisma, Postgresql, Redis & PayMongo. 
 
 ##### CV
 
-An internal tool for searching company applicants.
+An internal tool for searching applicants based on their skills which is extracted using AI tools.
 
 - Used Python and OpenAI chat completion to extract relevant fields from a resume (PDF/Docx).
 - Has a web interface for the staff to interact. Stacks used: FastAPI, Remix.run, MUI, DrizzleORM, Postgresql, & AWS S3
-- Hosted on AWS EC2 with Caddy server. Uses Docker Compose.
+
+##### StackED
+
+An online learning management system for coding bootcamps or universities/colleges which includes coding problems.
+
+- Has coding problem quiz that runs/compiles languages like Javascript, Python, PHP, Java, C, and C#.
+- Utilizes Docker for executing scripts in stdin/out or against test frameworks. 
+- Built using Elixir/Phoenix, Postgresql, React, ViteJS.
 
 #### Jun 2016 - Feb 2019 - Junior Software Developer - CPRS Technologies
 
