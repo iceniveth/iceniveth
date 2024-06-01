@@ -7,7 +7,7 @@ https://medium.com/@ken11zer01
 
 #### Current
 
-Elixir/Phoenix • NodeJS • Typescript • React • ViteJS • Docker • Postgresql • Caddy • Namecheap • JIRA • Bitbucket • Git • AWS (EC2, ECS, S3, CouldFront) • Sentry.io • Mandrill • Mailchimp • Shopify • Playwright
+Elixir/Phoenix • NodeJS • Typescript • React • ViteJS • Docker • Postgresql • Caddy • Namecheap • JIRA • Bitbucket • Git • AWS (EC2, ECS, S3, CouldFront) • Sentry.io • Mandrill • Mailchimp • Shopify • Playwright • Resend • BullMQ
 
 #### Used to
 
