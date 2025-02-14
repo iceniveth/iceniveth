@@ -96,6 +96,10 @@ An online learning management system for coding bootcamps or universities/colleg
 
 ### Training and Certificates
 
+#### 2024
+
+Microsoft Certified: Azure AI Engineer Associate
+
 #### 2016
 
 M101 JS: MongoDB for NodeJS Developers Course Completion
