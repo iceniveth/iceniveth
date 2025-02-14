@@ -38,7 +38,7 @@ For every new purchase order email received in Outlook, it will automatically cr
 
 - Uses LLMs to check if email a purchase order and for the matching of customer PO items with the Acumatica items.
 - The system also learns from the corrected or previous sales order, so that by next time, it will create the right sales order items. 
-- Tools used: HonoJS, Drizzleorm, Pgvector, Redis, 
+- Tools used: HonoJS, Drizzleorm, Pgvector, Redis, & OpenAI
 
 ##### Flash Cargo
 
