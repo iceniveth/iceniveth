@@ -7,15 +7,15 @@ https://medium.com/@ken11zer01
 
 #### Current
 
-Elixir/Phoenix • NodeJS • Typescript • React • ViteJS • Docker • Postgresql • PostGIS • Caddy • Namecheap • JIRA • Bitbucket • Git • AWS (EC2, ECS, S3, CouldFront) • Sentry.io • Mandrill • Mailchimp • Shopify • Playwright • Resend • BullMQ • Nominatim
+NodeJS • Typescript • React • ViteJS • Docker • Postgresql • PostGIS • Caddy • Namecheap • JIRA • Bitbucket • Git • AWS (EC2, ECS, S3, CouldFront) • Sentry.io • Mandrill • Mailchimp • Shopify • Playwright • Resend • BullMQ • Nominatim • OpenAI • Xendit • Resend 
 
 #### Used to
 
-GitLab (Issues, CI, Feature Flags) • Firebase • VueJs • MySQL • MSSQL • MongoDB • Python, C# • VB.NET • PHP•  Windows Form • ASP.NET Core • Entity Framework Core • TestCafe • Cypress
+Elixir/Phoenix • GitLab (Issues, CI, Feature Flags) • Firebase • VueJs • MySQL • MSSQL • MongoDB • Python, C# • VB.NET • PHP •  Windows Form • ASP.NET Core • Entity Framework Core • TestCafe • Cypress • PayMongo
 
 ### Experiences
 
-#### Apr 2019 - Present - Lead Software Developer - StackTrek Enterprise Inc.
+#### Apr 2019 - Present - Staff Engineer - StackTrek Enterprise Inc.
 
 - Involved in the full cycle of product planning, development, testing, and customer feedback.
 - Developing apps with Create React App, NextJS, Vite, Typescript, Elixir Pheonix (REST API), and PostgreSQL.
@@ -29,7 +29,15 @@ GitLab (Issues, CI, Feature Flags) • Firebase • VueJs • MySQL • MSSQL �
 - Tracks customer feedback from Hotjar and monitors errors via Sentry.io.
 - Integrate payment gateway with Paymongo and Bux.ph
 - Applies feature flagging when releasing new features via GitLab.
-- Teach and advise coding bootcamp trainees. 
+- Teach and advise coding bootcamp trainees.
+- Utilize prompt engineering and generative AI tools. 
+
+##### Flash Cargo
+
+An online portal for shipping customer packages within the Philippines.
+
+- Utilizes LLMs chat completion to get 3rd-party carrier rates via email and then presents those quoted rates to customers.
+- Built using NextJS, Prisma, Postgresql, Redis, Xendit, Google Maps & Nominatim.
 
 ##### LoveBus
 
@@ -43,7 +51,7 @@ A multi-merchant online store for selling Filipino-made products.
 
 An e-commerce website that mostly sells wines.
 
-- Scrapes wine products from well-known sites using Playwright, then sell those products with additional price markup.
+- Scrapes wine products from well-known sites using Playwright, then sell those products with an additional price markup.
 - Built using Shopify, NextJS, Prisma, Postgresql, Redis & PayMongo. 
 
 ##### CV
@@ -58,12 +66,12 @@ An internal tool for searching applicants based on their skills which is extract
 An online learning management system for coding bootcamps or universities/colleges which includes coding problems.
 
 - Has coding problem quiz that runs/compiles languages like Javascript, Python, PHP, Java, C, and C#.
-- Utilizes Docker for executing scripts in stdin/out or against test frameworks. 
+- Utilizes Docker to execute scripts in stdin/out or against test frameworks. 
 - Built using Elixir/Phoenix, Postgresql, React with ViteJS, & AWS S3.
 
 #### Jun 2016 - Feb 2019 - Junior Software Developer - CPRS Technologies
 
-- Developed a single-page application for Electronic Medical Record System for Ophthalmologist. Implemented using Vue with Vuetify and hosted on Firebase.
+- Developed a single-page application for an Electronic Medical Record System for Ophthalmologist. Implemented using Vue with Vuetify and hosted on Firebase.
 - Collaborate with clients to gather their requirements, then plan out the structure of the desired system.
 - Provided on-call support to clients when issues were encountered and remotely accessed via Team Viewer.
 - Used Azure Pipelines for issue tracking, continuous build, and deployment.
