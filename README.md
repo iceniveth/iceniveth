@@ -30,7 +30,15 @@ Elixir/Phoenix • GitLab (Issues, CI, Feature Flags) • Firebase • VueJs •
 - Integrate payment gateway with Paymongo and Bux.ph
 - Applies feature flagging when releasing new features via GitLab.
 - Teach and advise coding bootcamp trainees.
-- Utilize prompt engineering and generative AI tools. 
+- Utilize prompt engineering and generative AI tools.
+
+##### Email Purchase Order to Acumatica Sales Order 
+
+For every new purchase order email received in Outlook, it will automatically create a draft sales order in Acumatica.
+
+- Uses LLMs to check if email a purchase order and for the matching of customer PO items with the Acumatica items.
+- The system also learns from the corrected or previous sales order, so that by next time, it will create the right sales order items. 
+- Tools used: HonoJS, Drizzleorm, Pgvector, Redis, 
 
 ##### Flash Cargo
 
