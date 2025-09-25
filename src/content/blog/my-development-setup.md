@@ -2,7 +2,7 @@
 title: 'My Development Setup'
 description: 'The development environment I make to start building'
 pubDate: 'Sept 15 2025'
-# heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/my-development-setup.png'
 ---
 
 As a software developer since 2016, I've refined my development workspace setup over the years. As of 2025, this is my carefully curated development environment. I work primarily with two machines - a PC and a laptop, both running Windows.
