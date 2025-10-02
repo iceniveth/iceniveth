@@ -2,7 +2,7 @@
 title: 'Home Movie Server (Jellyfin)'
 description: 'The development environment I make to start building'
 pubDate: 'Sept 15 2025'
-# heroImage: '../../assets/my-development-setup.png'
+heroImage: '../../assets/home-movie-server.png'
 ---
 
 In our house, my father routine is to watch TV all day. He is a fan of James Bond (the old school). We have a television and he is only the one watching on it.
